@@ -1,0 +1,5 @@
+Entrada:
+Poderia extrair o texto desta imagem para mim
+
+Saída:
+SoftMaker FreeOffice
